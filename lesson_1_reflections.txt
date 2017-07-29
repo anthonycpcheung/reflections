@@ -36,3 +36,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
 - navigate versions in repository
 - checkout and commit
 - diff
+
