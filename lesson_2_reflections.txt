@@ -11,6 +11,7 @@ Files are going to be committed have to be placed in staging area with git add.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+- place only changed files which modified with only the intended logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
