@@ -1,2 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
-- share project to public
+- share project to public (git remote add origin -> git push origin -> everyone can see)
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your 
+remote repository?
+- better control the version of change
+- no unwanted merge and conflict resolution needed
