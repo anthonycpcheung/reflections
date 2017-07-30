@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 - Branches = make another version within a Git repository; use when working changes in repository
 - Clone = make an exact copy of a Git repository; use when making backup, do completely independent changes
 - Fork = make a clone of other's GitHub repository. This function is only found in Git Hub.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- to track the different of commits done in local and remote; find out conflicts
