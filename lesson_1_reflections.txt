@@ -32,8 +32,8 @@ How might using version control make you more confident to make changes that cou
 - area of error searching is reduced
 
 Now that you have your workspace set up, what do you want to try using Git for?
-- create repository
-- navigate versions in repository
-- checkout and commit
-- diff
+- create repository (git init)
+- navigate versions in repository (git log)
+- checkout and commit (git checkout, git commit)
+- diff (git diff)
 
